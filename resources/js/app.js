@@ -1,3 +1,4 @@
+import '@fullcalendar/daygrid/main.css'; // ✅ importa el CSS correctamente
 import { Calendar } from '@fullcalendar/core';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import interactionPlugin from '@fullcalendar/interaction'; // <-- ya disponible
